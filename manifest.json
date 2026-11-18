@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "brandId": "eauncraft-premium",
-  "updatedAt": "2026-11-18T16:58:37.280Z",
+  "updatedAt": "2026-11-18T17:01:01.274Z",
   "branding": {
     "title": "E'AunCraft Premium",
     "background": {
@@ -17,7 +17,11 @@
       "body": "เปิด Radmin VPN ก่อนเข้าเกมทุกครั้ง\nถ้าเข้าเซิร์ฟไม่ได้ ให้เช็กว่าแอดมินเปิดเซิร์ฟอยู่ (ไฟเขียวที่การ์ดเซิร์ฟ)"
     }
   ],
-  "launcher": null,
+  "launcher": {
+    "latestVersion": "1.1.7",
+    "sha1": "2f87f2e7b39fbfae273f41c8b030f10ad75d8d0b",
+    "downloadUrl": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/launcher/EAunCraftPremium-Setup.exe"
+  },
   "servers": [
     {
       "id": "main",
