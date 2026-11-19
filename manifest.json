@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "brandId": "eauncraft-premium",
-  "updatedAt": "2026-11-18T17:01:01.274Z",
+  "updatedAt": "2026-11-19T10:17:31.714Z",
   "branding": {
     "title": "E'AunCraft Premium",
     "background": {
@@ -34,7 +34,7 @@
         "type": "neoforge",
         "version": "21.1.266"
       },
-      "packVersion": "2026.11.18-1",
+      "packVersion": "2026.11.19-1",
       "enforceDirs": [
         "mods"
       ],
@@ -3123,6 +3123,13 @@
           "size": 1854505,
           "mode": "enforce",
           "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/6e480fff57d27aa20a9c3488419422ac707a5f14"
+        },
+        {
+          "path": "mods/stackable-neoforge-1.21.1-2.1.1.jar",
+          "sha1": "874bc262e16a4de2d2f66f0d0596819bc74335c9",
+          "size": 38177,
+          "mode": "enforce",
+          "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/874bc262e16a4de2d2f66f0d0596819bc74335c9"
         },
         {
           "path": "mods/travelersbackpack-neoforge-1.21.1-10.1.41.jar",
