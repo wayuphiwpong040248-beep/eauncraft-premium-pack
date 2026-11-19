@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "brandId": "eauncraft-premium",
-  "updatedAt": "2026-11-19T10:17:31.714Z",
+  "updatedAt": "2026-11-19T15:05:41.611Z",
   "branding": {
     "title": "E'AunCraft Premium",
     "background": {
@@ -34,7 +34,7 @@
         "type": "neoforge",
         "version": "21.1.266"
       },
-      "packVersion": "2026.11.19-1",
+      "packVersion": "2026.11.19-2",
       "enforceDirs": [
         "mods"
       ],
@@ -3937,25 +3937,11 @@
           "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/91f6d4cfbf7e00460b91981e7494cb9a0da9fe21"
         },
         {
-          "path": "resourcepacks/Crops-3D_MC1.19_v1.2.0.zip",
-          "sha1": "98a55eed3fae61aad12807c023907ccbf4a568f3",
-          "size": 525930,
-          "mode": "managed",
-          "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/98a55eed3fae61aad12807c023907ccbf4a568f3"
-        },
-        {
           "path": "resourcepacks/DetailedAnimationsReworked - V1.15.zip",
           "sha1": "1d0ac0d5d7514a3df02de06a598ae95697339a21",
           "size": 116175,
           "mode": "managed",
           "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/1d0ac0d5d7514a3df02de06a598ae95697339a21"
-        },
-        {
-          "path": "resourcepacks/Fancy Crops v1.3.zip",
-          "sha1": "788e5169eb064b696b2e20d4c5d998cceb387a2e",
-          "size": 92779,
-          "mode": "managed",
-          "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/788e5169eb064b696b2e20d4c5d998cceb387a2e"
         },
         {
           "path": "resourcepacks/Fancy_Beds-v4.2.zip",
@@ -3972,27 +3958,6 @@
           "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/19caa109fd6d66f59c313dfe0932be3db92228b2"
         },
         {
-          "path": "resourcepacks/Fat Cat.zip",
-          "sha1": "b411fe960a1bc12e9f753955bceb545e0e0d1f68",
-          "size": 17804,
-          "mode": "managed",
-          "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/b411fe960a1bc12e9f753955bceb545e0e0d1f68"
-        },
-        {
-          "path": "resourcepacks/FreshAnimations_v1.11.2_1.20+.zip",
-          "sha1": "c0f564f3b9c12762923015eefad53edbdbbd3d96",
-          "size": 742790,
-          "mode": "managed",
-          "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/c0f564f3b9c12762923015eefad53edbdbbd3d96"
-        },
-        {
-          "path": "resourcepacks/HumanEraVillagersIllagers[3.91.5].zip",
-          "sha1": "6a6a07d4328fc7c413b63f0e73d33086d9b9cef7",
-          "size": 10630345,
-          "mode": "managed",
-          "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/6a6a07d4328fc7c413b63f0e73d33086d9b9cef7"
-        },
-        {
           "path": "resourcepacks/little squids 3.0a.zip",
           "sha1": "86a9086f4a9482de708fd12abfe7e6afbc608e69",
           "size": 34043,
@@ -4007,11 +3972,11 @@
           "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/afb56cfc90e663526352f7bd75a3c733178fca45"
         },
         {
-          "path": "resourcepacks/Stay True 1.21.5.zip",
-          "sha1": "b752181fa17cf99a67bc46a2c1569be621021493",
-          "size": 2252799,
+          "path": "resourcepacks/Techit's ThaiFixes - Sarabun.zip",
+          "sha1": "dc55c098ae295159a27ebd1a7326126859e410ba",
+          "size": 77218,
           "mode": "managed",
-          "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/b752181fa17cf99a67bc46a2c1569be621021493"
+          "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/dc55c098ae295159a27ebd1a7326126859e410ba"
         },
         {
           "path": "resourcepacks/§6Immersive§8_§6Interfaces§8.zip",
