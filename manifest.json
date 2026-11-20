@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "brandId": "eauncraft-premium",
-  "updatedAt": "2026-11-20T15:09:44.202Z",
+  "updatedAt": "2026-11-20T20:01:24.649Z",
   "branding": {
     "title": "E'AunCraft Premium",
     "background": {
@@ -34,7 +34,7 @@
         "type": "neoforge",
         "version": "21.1.266"
       },
-      "packVersion": "2026.11.19-2",
+      "packVersion": "2026.11.21-1",
       "enforceDirs": [
         "mods"
       ],
@@ -2978,6 +2978,13 @@
           "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/03a171d170b22a04e67d2cc7894ddddd8489a295"
         },
         {
+          "path": "mods/forgematica-0.4.3+mc1.21.1-sources.jar",
+          "sha1": "b726d7d3c965f2798d4b89fd4811fa1ae7aabe35",
+          "size": 1016636,
+          "mode": "enforce",
+          "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/b726d7d3c965f2798d4b89fd4811fa1ae7aabe35"
+        },
+        {
           "path": "mods/fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
           "sha1": "aa04a2ddbce2f50b21d667d2f3e589f9e043e472",
           "size": 2392720,
@@ -3046,6 +3053,13 @@
           "size": 73375667,
           "mode": "enforce",
           "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/f0310277167c82fd16a5c2bab220b5c5c262f133"
+        },
+        {
+          "path": "mods/mafglib-0.4.2+mc1.21.1.jar",
+          "sha1": "32e08cc76dd63d05730db4b299ecb241ea053399",
+          "size": 1113826,
+          "mode": "enforce",
+          "url": "https://github.com/wayuphiwpong040248-beep/eauncraft-premium-pack/releases/download/files/32e08cc76dd63d05730db4b299ecb241ea053399"
         },
         {
           "path": "mods/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
